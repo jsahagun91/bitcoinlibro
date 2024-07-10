@@ -1,4 +1,4 @@
-# Mastering Bitcoin
+# Dominando Bitcoin
 
 Mastering Bitcoin is a technical book that explains what Bitcoin is and how it works.
 
