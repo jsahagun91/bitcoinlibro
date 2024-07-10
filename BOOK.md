@@ -1,8 +1,8 @@
-# Mastering Bitcoin: Programming the Open Blockchain (3rd Edition)
+# Dominando Bitcoin: Programación de la Blockchain Abierta (Tercera Edición)
 
-_By Andreas M. Antonopoulos and David A. Harding_
+_Por Andreas M. Antonopoulos y David A. Harding_
 
-## [Preface](preface.adoc)
+## [Prefacio](preface.adoc)
 ## [Chapter 1 - Introduction](ch01_intro.adoc)
 ## [Chapter 2 - Overview](ch02_overview.adoc)
 ## [Chapter 3 - Bitcoin Core](ch03_bitcoin-core.adoc)
