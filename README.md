@@ -8,9 +8,9 @@ This repository contains the complete text of three editions of the book Masteri
 * The [second edition, third print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print3), published in March 2018
 * The [third edition, first print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/third_edition_print1), published in December 2023
 
-# Reading This Book
+# Leyendo Este Libro
 
-To read this book *for free*, see [BOOK.md](https://github.com/jsahagun91/bitcoinlibro/blob/develop/BOOK.md). Click on each of the chapters to read in your browser. 
+Para leer este libro *gratis*, consulte [BOOK.md](https://github.com/jsahagun91/bitcoinlibro/blob/develop/BOOK.md). Haga clic en cada uno de los capítulos para leer en su navegador.
 
 _Please note that some of the links in each chapter do not work when reading the book on Github. This is because those links are intended for the print and ebook editions of the book and only work when all the chapters are rendered together. Unfortunatelly, Github does not have the ability to render the complete book at once._
 
