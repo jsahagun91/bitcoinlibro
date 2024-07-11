@@ -14,17 +14,17 @@ Para leer este libro *gratis*, consulte [BOOK.md](https://github.com/jsahagun91/
 
 _Tenga en cuenta que algunos de los enlaces de cada capítulo no funcionan al leer el libro en Github. Esto se debe a que esos enlaces están destinados a las ediciones impresa y electrónica del libro y solo funcionan cuando todos los capítulos se muestran juntos. Desafortunadamente, Github no tiene la capacidad de renderizar el libro completo a la vez._
 
-## Where is the PDF?
+## Donde esta el PDF?
 
-**The current edition is not available as a PDF, deliberately**. Why? Because the publisher (O'Reilly Media) is a for-profit publisher who puts considerable resources behind producing, editing and distributing this book. The third edition of "Mastering Bitcoin" is available under a CC-BY-NC-ND license, not a CC-BY-SA license. The book will eventually (within a year of publication) be released under a CC-BY-SA license, at which point PDF copies and translations will be allowed (a PDF is a "derivative" product, which is what the "ND-NoDerivatives" part of the license prohibits). 
+**La edición actual no está disponible en formato PDF, deliberadamente**. ¿Por qué? Porque el editor (O'Reilly Media) es un editor con fines de lucro que dedica considerables recursos a la producción, edición y distribución de este libro. La tercera edición de "Mastering Bitcoin" está disponible bajo una licencia CC-BY-NC-ND, no una licencia CC-BY-SA. El libro eventualmente (dentro de un año de su publicación) se publicará bajo una licencia CC-BY-SA, momento en el cual se permitirán copias y traducciones en PDF (un PDF es un producto "derivado", que es lo que el "ND-NoDerivatives" " parte de la licencia lo prohíbe).
 
-Making PDF copies violates the license and interferes with the publisher's and the authors' ability to earn from their work. Furthermore, if you make it so the publisher can't recoup their investment, they may delay the release into CC-BY-SA. A beautifully rendered PDF or epub version of this book is offered for sale by the publisher. Convenient packaging is the for-profit product, whereas the version available here is slightly less convenient but entirely free for personal and non-commercial use. If you want convenience and nice packaging, buy the book!
+Hacer copias en PDF viola la licencia e interfiere con la capacidad del editor y de los autores de ganar dinero con su trabajo. Además, si hace que el editor no pueda recuperar su inversión, puede retrasar el lanzamiento en CC-BY-SA. El editor ofrece a la venta una hermosa versión PDF o epub de este libro. El empaque conveniente es el producto con fines de lucro, mientras que la versión disponible aquí es un poco menos conveniente pero completamente gratuita para uso personal y no comercial. Si quieres comodidad y un bonito embalaje, ¡compra el libro!
 
-Please don't create or distribute PDFs until the license is changed to CC-BY-SA. It is rare for a publisher to even agree to a CC-BY-NC-ND license. Don't make it harder for free culture by violating even that, already generous, license. 
+No cree ni distribuya archivos PDF hasta que la licencia se cambie a CC-BY-SA. Es raro que un editor acepte siquiera una licencia CC-BY-NC-ND. No se lo pongamos más difícil a la cultura libre violando incluso esa, ya de por sí generosa, licencia.
 
-# Mastering Bitcoin Third Edition
+# Dominando Bitcoin Tercera Edición
 
-*"Mastering Bitcoin: Programming the Open Blockchain (3rd Edition)"* is now available in paperback and ebook formats by many booksellers worldwide, such as:
+*"Dominando Bitcoin: Programando la Blockchain Abierta (3.ª edición)"* ya está disponible en formato de bolsillo y de libro electrónico en muchas librerías de todo el mundo, como por ejemplo:
 
 * [EBooks.com](https://www.ebooks.com/en-us/book/211147266/mastering-bitcoin/andreas-m-antonopoulos/)
 * [Amazon](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1098150090)
