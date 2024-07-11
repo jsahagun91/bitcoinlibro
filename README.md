@@ -1,8 +1,8 @@
 # Dominando Bitcoin
 
-Mastering Bitcoin is a technical book that explains what Bitcoin is and how it works.
+Dominando Bitcoin es un libro técnico que explica qué es Bitcoin y cómo funciona.
 
-This repository contains the complete text of three editions of the book Mastering Bitcoin as published in paperback and ebook formats by O'Reilly Media. Different editions of this book are covered by different open licenses (see [LICENSE](LICENSE)). The three editions are:
+El repositorio original contiene el texto completo de tres ediciones del libro Mastering Bitcoin publicado en formato de bolsillo y libro electrónico por O'Reilly Media. Las diferentes ediciones de este libro están cubiertas por diferentes licencias abiertas. (see [LICENSE](LICENSE)). Las tres edicíones son:
 
 * The [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2), published in December 2014
 * The [second edition, third print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print3), published in March 2018
