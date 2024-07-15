@@ -21,37 +21,37 @@ La naturaleza demuestra que los sistemas descentralizados pueden ser resilientes
 
 Bitcoin es una red descentralizada altamente sofisticada que puede respaldar innumerables procesos financieros. Sin embargo, cada nodo de la red Bitcoin sigue unas cuantas reglas sencillas. La interacción entre muchos nodos es lo que conduce al surgimiento de un comportamiento sofisticado, no una complejidad inherente o confianza en un solo nodo. Como una colonia de hormigas, la red Bitcoin es una red resistente de nodos simples que siguen reglas simples y que juntos pueden hacer cosas asombrosas sin ninguna coordinación central.
 
-=== Conventions Used in This Book
+=== Las Convenciones Usadas en Este Libro
 
-The following typographical conventions are used in this book:
+En este libro se utilizan las siguientes convenciones tipográficas:
 
-_Italic_:: Indicates new terms, URLs, email addresses, filenames, and file extensions.
+_Itálica_:: Indica nuevos términos, URL, direcciones de correo electrónico, nombres de archivos y extensiones de archivos.
 
-+Constant width+:: Used for program listings, as well as within paragraphs to refer to program elements such as variable or function names, databases, data types, environment variables, statements, and keywords.
++Ancho Constante+:: Se utiliza para listados de programas, así como dentro de párrafos para hacer referencia a elementos del programa, como nombres de funciones o variables, bases de datos, tipos de datos, variables de entorno, declaraciones y palabras clave.
 
-**`Constant width bold`**:: Shows commands or other text that should be typed literally by the user.
+**`Negrita de Ancho Constante`**:: Muestra comandos u otro texto que el usuario debe escribir literalmente.
 
-_++Constant width italic++_:: Shows text that should be replaced with user-supplied values or by values determined by context.
+_++Cursiva de Ancho Constante++_:: Muestra texto que debe reemplazarse con valores proporcionados por el usuario o por valores determinados por el contexto.
 
 
-[TIP]
+[CONSEJO]
 ====
-This element signifies a tip or suggestion.
-====
-
-[NOTE]
-====
-This element signifies a general note.
+Este elemento significa un consejo o sugerencia.
 ====
 
-[WARNING]
+[NOTA]
 ====
-This element indicates a warning or caution.
+Este elemento significa una nota general.
 ====
 
-=== Code Examples
+[ADVERTENCIA]
+====
+Este elemento indica una advertencia o precaución.
+====
 
-All the code snippets can be replicated on most operating systems with a minimal installation of compilers and interpreters for the corresponding languages. Where necessary, we provide basic installation instructions and step-by-step examples of the output of those instructions.
+=== Ejemplos de Código
+
+Todos los fragmentos de código se pueden replicar en la mayoría de los sistemas operativos con una instalación mínima de compiladores e intérpretes para los lenguajes correspondientes. Cuando sea necesario, proporcionamos instrucciones de instalación básicas y ejemplos paso a paso del resultado de esas instrucciones.
 
 Some of the code snippets and code output have been reformatted for print. In all such cases, the lines have been split by a backslash (\) character, followed by a newline character. When transcribing the examples, remove those two characters and join the lines again and you should see identical results as shown in the example.
 
