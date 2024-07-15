@@ -34,17 +34,17 @@ _Itálica_:: Indica nuevos términos, URL, direcciones de correo electrónico, n
 _++Cursiva de Ancho Constante++_:: Muestra texto que debe reemplazarse con valores proporcionados por el usuario o por valores determinados por el contexto.
 
 
-[CONSEJO]
+[TIP]
 ====
 Este elemento significa un consejo o sugerencia.
 ====
 
-[NOTA]
+[NOTE]
 ====
 Este elemento significa una nota general.
 ====
 
-[ADVERTENCIA]
+[WARNING]
 ====
 Este elemento indica una advertencia o precaución.
 ====
