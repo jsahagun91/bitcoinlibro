@@ -53,33 +53,30 @@ Este elemento indica una advertencia o precaución.
 
 Todos los fragmentos de código se pueden replicar en la mayoría de los sistemas operativos con una instalación mínima de compiladores e intérpretes para los lenguajes correspondientes. Cuando sea necesario, proporcionamos instrucciones de instalación básicas y ejemplos paso a paso del resultado de esas instrucciones.
 
-Some of the code snippets and code output have been reformatted for print. In all such cases, the lines have been split by a backslash (\) character, followed by a newline character. When transcribing the examples, remove those two characters and join the lines again and you should see identical results as shown in the example.
+Algunos de los fragmentos de código y la salida del código se han reformateado para imprimir. En todos estos casos, las líneas se han dividido mediante un carácter de barra invertida (\), seguido de un carácter de nueva línea. Al transcribir los ejemplos, elimine esos dos caracteres y vuelva a unir las líneas y debería ver resultados idénticos a los que se muestran en el ejemplo.
 
-All the code snippets use real values and calculations where possible, so that you can build from example to example and see the same results in any code you write to calculate the same values.
+Todos los fragmentos de código utilizan valores y cálculos reales siempre que sea posible, de modo que pueda construir de un ejemplo a otro y ver los mismos resultados en cualquier código que escriba para calcular los mismos valores.
 
-=== Using Code Examples
+=== Usando Ejemplos de Código
 
-This book is here to help you get your job done. In general, if example code is offered with this book, you may use it in your programs and documentation. You do not need to contact us for permission unless you’re reproducing a significant portion of the code. For example, writing a program that uses several chunks of code from this book does not require permission. Selling or distributing examples from O’Reilly books does require permission. Answering a question by citing this book and quoting example code does not require permission. Incorporating a significant amount of example code from this book into your product’s documentation does require permission.
+Este libro está aquí para ayudarle a realizar su trabajo. En general, si se ofrece código de ejemplo con este libro, puede utilizarlo en sus programas y documentación. No es necesario que se comunique con nosotros para solicitar permiso a menos que esté reproduciendo una parte importante del código. Por ejemplo, escribir un programa que utilice varios fragmentos de código de este libro no requiere permiso. Vender o distribuir ejemplos de libros de O'Reilly requiere permiso. Responder una pregunta citando este libro y citando código de ejemplo no requiere permiso. Incorporar una cantidad significativa de código de ejemplo de este libro en la documentación de su producto requiere permiso.
 
-We appreciate, but do not require, attribution. An attribution usually includes [.keep-together]#the title,# author, publisher, and ISBN. For example: “_Mastering Bitcoin_, 3rd ed., by [.keep-together]#Andreas M.# Antonopoulos and David A. Harding (O’Reilly). Copyright 2024 David Harding, ISBN 978-1-098-15009-9.”
+Apreciamos la atribución, pero no la exigimos. Una atribución suele incluir [.keep-together]#el título,# el autor, el editor y el ISBN. Por ejemplo: “_Mastering Bitcoin_, 3.ª ed., por [.keep-together]#Andreas M.# Antonopoulos y David A. Harding (O'Reilly). Copyright 2024 David Harding, ISBN 978-1-098-15009-9.”
 
-Some editions of this book are offered under an open source license, such as https://oreil.ly/RzUHE[CC-BY-NC], in which case the terms of that license apply.
+Algunas ediciones de este libro se ofrecen bajo una licencia de código abierto, como https://oreil.ly/RzUHE[CC-BY-NC], en cuyo caso se aplican los términos de esa licencia.
 
-If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at pass:[<a href="mailto:permissions@oreilly.com">permissions@oreilly.com</a>].
+Si cree que su uso de ejemplos de código queda fuera del uso legítimo o del permiso otorgado anteriormente, no dude en contactarnos en pass:[<a href="mailto:permissions@oreilly.com">permissions@oreilly.com</a> ].
 
-=== Changes Since the Previous Edition
+=== Direcciones y Transacciones de Bitcoin en Este Libro
 
-include::meta/third_edition_changes.asciidoc[]
+Las direcciones, transacciones, claves, códigos QR y datos de blockchain de Bitcoin utilizados en este libro son, en su mayor parte, reales. Eso significa que puede navegar por la cadena de bloques, ver las transacciones ofrecidas como ejemplos, recuperarlas con sus propios scripts o programas, etc.
 
-=== Bitcoin Addresses and Transactions in This Book
+Sin embargo, tenga en cuenta que las claves privadas utilizadas para construir direcciones están impresas en este libro o han sido "quemadas". Eso significa que si envía dinero a cualquiera de estas direcciones, el dinero se perderá para siempre o, en algunos casos, todos los que puedan leer el libro podrán recibirlo utilizando las claves privadas impresas aquí.
 
-The Bitcoin addresses, transactions, keys, QR codes, and blockchain data used in this book are, for the most part, real. That means you can browse the blockchain, look at the transactions offered as examples, retrieve them with your own scripts or programs, etc.
-
-However, note that the private keys used to construct addresses are either printed in this book or have been "burned." That means if you send money to any of these addresses, the money will either be lost forever, or in some cases everyone who can read the book can take it using the private keys printed in here.
-
+ADVERTENCIA
 [WARNING]
 ====
-DO NOT SEND MONEY TO ANY OF THE ADDRESSES IN THIS BOOK. Your money will be taken by another reader or lost forever.
+NO ENVÍE DINERO A NINGUNA DE LAS DIRECCIONES EN ESTE LIBRO. Otro lector se llevará su dinero o lo perderá para siempre.
 ====
 
 === O'Reilly Online Learning
