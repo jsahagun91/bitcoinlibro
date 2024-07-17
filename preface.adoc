@@ -73,7 +73,6 @@ Las direcciones, transacciones, claves, códigos QR y datos de blockchain de Bit
 
 Sin embargo, tenga en cuenta que las claves privadas utilizadas para construir direcciones están impresas en este libro o han sido "quemadas". Eso significa que si envía dinero a cualquiera de estas direcciones, el dinero se perderá para siempre o, en algunos casos, todos los que puedan leer el libro podrán recibirlo utilizando las claves privadas impresas aquí.
 
-ADVERTENCIA
 [WARNING]
 ====
 NO ENVÍE DINERO A NINGUNA DE LAS DIRECCIONES EN ESTE LIBRO. Otro lector se llevará su dinero o lo perderá para siempre.
@@ -83,14 +82,14 @@ NO ENVÍE DINERO A NINGUNA DE LAS DIRECCIONES EN ESTE LIBRO. Otro lector se llev
 [role = "ormenabled"]
 [NOTE]
 ====
-For more than 40 years, pass:[<a href="https://oreilly.com" class="orm:hideurl"><em class="hyperlink">O’Reilly Media</em></a>] has provided technology and business training, knowledge, and insight to help companies succeed.
+Desde hace más de 40 años, pass:[<a href="https://oreilly.com" class="orm:hideurl"><em class="hyperlink">O’Reilly Media</em></a>] ha proporcionado tecnología y capacitación empresarial, conocimientos y perspectivas para ayudar a las empresas a tener éxito.
 ====
 
-Our unique network of experts and innovators share their knowledge and expertise through books, articles, and our online learning platform. O’Reilly’s online learning platform gives you on-demand access to live training courses, in-depth learning paths, interactive coding environments, and a vast collection of text and video from O'Reilly and 200+ other publishers. For more information, visit pass:[<a href="https://oreilly.com" class="orm:hideurl"><em>https://oreilly.com</em></a>].
+Nuestra red única de expertos e innovadores comparte su conocimiento y experiencia a través de libros, artículos y nuestra plataforma de aprendizaje en línea. La plataforma de aprendizaje en línea de O'Reilly le brinda acceso bajo demanda a cursos de capacitación en vivo, rutas de aprendizaje en profundidad, entornos de codificación interactivos y una amplia colección de texto y video de O'Reilly y más de 200 editoriales más. Para más información visitepass:[<a href="https://oreilly.com" class="orm:hideurl"><em>https://oreilly.com</em></a>].
 
-=== How to Contact Us
+=== Como Contactarnos
 
-Please address comments and questions concerning this book to the publisher:
+Por favor dirija sus comentarios y preguntas sobre este libro al editor:
 
 ++++
 <ul class="simplelist">
@@ -105,26 +104,26 @@ Please address comments and questions concerning this book to the publisher:
 </ul>
 ++++
 
-We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at link:$$https://oreil.ly/MasteringBitcoin3e$$[].
+Tenemos una página web para este libro, donde enumeramos erratas, ejemplos y cualquier información adicional. Puede acceder a esta página en el enlace :$$https://oreil.ly/MasteringBitcoin3e$$[].
 
 ++++
 <!--Don't forget to update the link above.-->
 ++++
 
-For news and information about our books and courses, visit link:$$https://oreilly.com$$[].
+Para noticias e información sobre nuestros libros y cursos, visite link:$$https://oreilly.com$$[].
 
-Find us on LinkedIn: link:$$https://linkedin.com/company/oreilly-media$$[].
+Encuéntranos en LinkedIn: link:$$https://linkedin.com/company/oreilly-media$$[].
 
-Follow us on Twitter: link:$$https://twitter.com/oreillymedia$$[].
+Síganos en Twitter: link:$$https://twitter.com/oreillymedia$$[].
 
-Watch us on YouTube: link:$$https://youtube.com/oreillymedia$$[].
+Míranos en YouTube: link:$$https://youtube.com/oreillymedia$$[].
 
 
-=== Contacting the Authors
+=== Contacte a los Autores
 
 ++++
 <p class="left-align">
-You can contact Andreas M. Antonopoulos on his personal site:
+Puede contactar con Andreas M. Antonopoulos en su sitio personal:
 <span class="keep-together"><a href="https://antonopoulos.com"><em class="hyperlink">https://antonopoulos.com</em></a>.</span></p>
 ++++
 
