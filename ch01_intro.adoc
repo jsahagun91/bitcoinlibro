@@ -2,20 +2,20 @@
 [[ch01_intro_what_is_bitcoin]]
 == Introducción
 
-Bitcoin((("Bitcoin", "operational overview", id="bitcoin-operational-overview"))) is a collection of concepts and technologies that form the basis of a digital money ecosystem. Units of currency called bitcoin are used to store and transmit value among participants in the Bitcoin network. Bitcoin users communicate with each other using the Bitcoin protocol primarily via the internet, although other transport networks can also be used. The Bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
+Bitcoin((("Bitcoin", "operational overview", id="bitcoin-operational-overview"))) es una colección de conceptos y tecnologías que forman la base de un ecosistema de dinero digital. Las unidades monetarias llamadas bitcoin se utilizan para almacenar y transmitir valor entre los participantes de la red Bitcoin. Los usuarios de Bitcoin se comunican entre sí utilizando el protocolo Bitcoin principalmente a través de Internet, aunque también se pueden utilizar otras redes de transporte. La pila de protocolos Bitcoin, disponible como software de código abierto, puede ejecutarse en una amplia gama de dispositivos informáticos, incluidos ordenadores portátiles y teléfonos inteligentes, lo que hace que la tecnología sea fácilmente accesible.
 
 [TIP]
 ====
-In this book, the ((("bitcoins", "defined")))unit of currency is called "bitcoin" with a small _b_,
-and the system is called "Bitcoin," with a capital _B_.
+En este libro, el ((("bitcoins", "defined"))) unidad de moneda se llama "bitcoin" con una pequeña _b_,
+y el sistema se llama "Bitcoin", con mayúscula _B_.
 ====
 
-Users can transfer bitcoin over the network to do just about anything
-that can be done with conventional currencies, including buying and selling
-goods, sending money to people or organizations, or extending credit. Bitcoin
-can be purchased, sold, and exchanged for other currencies at
-specialized currency exchanges. Bitcoin is arguably the perfect form
-of money for the internet because it is fast, secure, and borderless.
+Los usuarios pueden transferir bitcoins a través de la red para hacer casi cualquier cosa
+que se puede hacer con monedas convencionales, incluida la compra y venta
+bienes, enviar dinero a personas u organizaciones, o otorgar crédito. bitcóin
+Se puede comprar, vender y cambiar por otras monedas en
+Casas de cambio especializadas. Podría decirse que Bitcoin es la forma perfecta
+de dinero para Internet porque es rápido, seguro y sin fronteras.
 
 Unlike traditional currencies, the bitcoin currency is entirely virtual. There are no
 physical coins or even individual digital coins. The coins are implied in
