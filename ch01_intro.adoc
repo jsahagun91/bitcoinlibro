@@ -12,8 +12,8 @@ y el sistema se llama "Bitcoin", con mayúscula _B_.
 
 Los usuarios pueden transferir bitcoins a través de la red para hacer casi cualquier cosa
 que se puede hacer con monedas convencionales, incluida la compra y venta
-bienes, enviar dinero a personas u organizaciones, o otorgar crédito. bitcóin
-Se puede comprar, vender y cambiar por otras monedas en
+bienes, enviar dinero a personas u organizaciones, o otorgar crédito. Bitcoin
+se puede comprar, vender y cambiar por otras monedas en
 Casas de cambio especializadas. Podría decirse que Bitcoin es la forma perfecta
 de dinero para Internet porque es rápido, seguro y sin fronteras.
 
