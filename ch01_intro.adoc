@@ -21,7 +21,7 @@ A diferencia de las monedas tradicionales, la moneda bitcoin es completamente vi
 
 Bitcoin es un sistema distribuido, de igual a igual. Como tal, no hay un
 servidor central ni un punto de control. Las unidades de bitcoin
-se crean a través de un proceso((("bitcoins", "mining")))((("mining"))) Se denomina "minería", y consiste en realizar repetidamente
+se crean a través de un proceso((("bitcoins", "mining")))((("mining"))) se denomina "minería", y consiste en realizar repetidamente
 una tarea computacional que hace referencia a una lista de transacciones
 recientes de Bitcoin. Cualquier participante de la red Bitcoin puede operar como minero, utilizando sus dispositivos informáticos para ayudar a proteger
 las transacciones. Cada 10 minutos, en promedio, un minero de Bitcoin puede agregar seguridad a las transacciones
