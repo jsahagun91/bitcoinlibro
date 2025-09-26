@@ -35,30 +35,14 @@ pasadas y es recompensado con nuevos bitcoins y las tarifas pagadas por las tran
 //     print(i)
 //     break
 
-The Bitcoin protocol includes built-in algorithms that regulate the
-mining function across the network. The difficulty of the computational
-task that miners must perform is adjusted dynamically so that, on
-average, someone succeeds every 10 minutes regardless of how many miners
-(and how much processing) are competing at any moment. The protocol also
-periodically decreases the number of new bitcoins that are created,
-limiting the total number of bitcoins that will ever be created to a fixed total
-just below 21 million coins. The result is that the number of bitcoins in
-circulation closely follows an easily predictable curve where half of
-the remaining coins are added to circulation every four years.  At
-approximately block 1,411,200, which is expected to be produced around
-the year 2035, 99% of all bitcoins
-that will ever exist will have been issued.  Due to Bitcoin's
-diminishing rate of issuance, over the long term, the Bitcoin currency
-is deflationary.  Furthermore, nobody can force you to accept
-any bitcoins that were created beyond the
-expected issuance rate.
+El protocolo Bitcoin incluye algoritmos integrados que regulan la función de minería en toda la red. La dificultad de la tarea computacional que deben realizar los mineros se ajusta dinámicamente, de modo que, en promedio, alguien tiene éxito cada 10 minutos, independientemente de cuántos mineros (y cuánto procesamiento) compitan en cada momento. El protocolo también disminuye periódicamente la cantidad de nuevos bitcoins creados, lo que limita el número total de bitcoins que se crearán a un total fijo justo por debajo de 21 millones de monedas. El resultado es que la cantidad de bitcoins en circulación sigue una curva fácilmente predecible en la que la mitad de las monedas restantes se añaden a la circulación cada cuatro años. Aproximadamente en el bloque 1.411.200, cuya producción se espera alrededor del año 2035, se habrá emitido el 99 % de todos los bitcoins que existirán. Debido a la decreciente tasa de emisión de Bitcoin, a largo plazo, la moneda Bitcoin es deflacionaria. Además, nadie puede obligarte a aceptar bitcoins creados más allá de la tasa de emisión esperada.
 
-Behind the scenes, Bitcoin is also the name of the protocol, a peer-to-peer network, and a distributed computing innovation. Bitcoin builds on decades of research in cryptography and distributed systems and includes at least four key innovations brought together in a unique and powerful combination. Bitcoin consists of:
+Tras bambalinas, Bitcoin es también el nombre del protocolo, una red peer-to-peer y una innovación en computación distribuida. Bitcoin se basa en décadas de investigación en criptografía y sistemas distribuidos e incluye al menos cuatro innovaciones clave reunidas en una combinación única y poderosa. Bitcoin se compone de:
 
-* A decentralized peer-to-peer network (the Bitcoin protocol)
-* A public transaction journal (the blockchain)
-* A set of rules for independent transaction validation and currency issuance (consensus rules)
-* A mechanism for reaching global decentralized consensus on the valid blockchain (proof-of-work algorithm)
+* Una red descentralizada entre pares (el protocolo Bitcoin)
+* Un registro público de transacciones (la cadena de bloques)
+* Un conjunto de reglas para la validación independiente de transacciones y la emisión de moneda (reglas de consenso)
+* Un mecanismo para alcanzar un consenso global descentralizado sobre la cadena de bloques válida (algoritmo de prueba de trabajo)
 
 As a developer, I see Bitcoin as akin to the internet of money, a network for propagating value and securing the ownership of digital assets via distributed computation. There's a lot more to Bitcoin than first meets ((("Bitcoin", "operational overview", startref="bitcoin-operational-overview")))the eye.
 
