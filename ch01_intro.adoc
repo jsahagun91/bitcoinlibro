@@ -66,8 +66,11 @@ Aunque estas primeras monedas digitales funcionaban, eran centralizadas y, como 
 
 === Historia de Bitcoin
 
-Bitcoin fue(((“Bitcoin”, “historia de”)))(((“historia”, “de Bitcoin”, secondary-sortas=“Bitcoin”)))(((“Nakamoto, Satoshi”))) descrito por primera vez en 2008 con la publicación de un
-documento titulado “Bitcoin: Un sistema de efectivo electrónico peer-to-peer”, escrito bajo el seudónimo de Satoshi Nakamoto (ver <<satoshi_whitepaper>>). Nakamoto combinó varios inventos previos, como las firmas digitales y Hashcash, para crear un sistema de efectivo electrónico completamente descentralizado que no depende de una autoridad central para la emisión de la moneda ni para la liquidación y validación de las transacciones.
+Bitcoin fue((("Bitcoin", "historia de")))((("historia", "de Bitcoin", secondary-sortas="Bitcoin")))((("Nakamoto, Satoshi"))) descrito por primera vez en 2008 con la publicación de un  
+documento titulado “Bitcoin: Un sistema de efectivo electrónico peer-to-peer”, escrito bajo el seudónimo de Satoshi Nakamoto (ver <<satoshi_whitepaper>>). Nakamoto combinó varios inventos previos, como las firmas digitales y Hashcash, para crear un sistema de efectivo electrónico completamente descentralizado que no depende de una autoridad central para la emisión de la moneda ni para la liquidación y validación de las transacciones.  
+
+[[satoshi_whitepaper]]  
+**VER Satoshi white paper**:: https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf
 
 Una innovación clave fue usar un sistema de cómputo distribuido (llamado algoritmo de proof-of-work) para llevar a cabo una especie de lotería global cada 10 minutos en promedio, lo que permite que la red descentralizada llegue a un consenso sobre el estado de las transacciones. Esto resuelve elegantemente el problema del doble gasto, donde una misma unidad monetaria podría gastarse dos veces. Anteriormente, el problema del doble gasto era una debilidad de las monedas digitales y se abordaba liquidando todas las transacciones a través de una cámara de compensación central.
 
