@@ -44,9 +44,9 @@ Tras bambalinas, Bitcoin es también el nombre del protocolo, una red peer-to-pe
 * Un conjunto de reglas para la validación independiente de transacciones y la emisión de moneda (reglas de consenso)
 * Un mecanismo para alcanzar un consenso global descentralizado sobre la cadena de bloques válida (algoritmo de prueba de trabajo)
 
-As a developer, I see Bitcoin as akin to the internet of money, a network for propagating value and securing the ownership of digital assets via distributed computation. There's a lot more to Bitcoin than first meets ((("Bitcoin", "operational overview", startref="bitcoin-operational-overview")))the eye.
+Como desarrollador, veo a Bitcoin como el equivalente al internet del dinero, una red para propagar valor y asegurar la propiedad de los activos digitales mediante el cómputo distribuido. Hay mucho más en Bitcoin de lo que a primera vista (((“Bitcoin”, “operational overview”, startref=“bitcoin-operational-overview”)))parece.
 
-In this chapter we'll get started by explaining some of the main concepts and terms, getting the necessary software, and using Bitcoin for simple transactions. In the following chapters, we'll start unwrapping the layers of technology that make Bitcoin possible and examine the inner workings of the Bitcoin network and protocol.
+En este capítulo comenzaremos explicando algunos de los conceptos y términos principales, obteniendo el software necesario y usando Bitcoin para realizar transacciones simples. En los siguientes capítulos, empezaremos a desenvolver las capas de tecnología que hacen posible a Bitcoin y examinaremos el funcionamiento interno de la red y el protocolo de Bitcoin.
 
 .Digital Currencies Before Bitcoin
 ****
