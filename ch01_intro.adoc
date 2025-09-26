@@ -70,20 +70,18 @@ Bitcoin fue((("Bitcoin", "historia de")))((("historia", "de Bitcoin", secondary-
 documento titulado “Bitcoin: Un sistema de efectivo electrónico peer-to-peer”, escrito bajo el seudónimo de Satoshi Nakamoto. Nakamoto combinó varios inventos previos, como las firmas digitales y Hashcash, para crear un sistema de efectivo electrónico completamente descentralizado que no depende de una autoridad central para la emisión de la moneda ni para la liquidación y validación de las transacciones.  
 
 [[bitcoin_whitepaper]] 
-**Ver Bitcoin: Un sistema de efectivo electrónico peer-to-peer**:: https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf
+**Lee el documento: Bitcoin: Un sistema de efectivo electrónico peer-to-peer**:: https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf
 
 Una innovación clave fue usar un sistema de cómputo distribuido (llamado algoritmo de proof-of-work) para llevar a cabo una especie de lotería global cada 10 minutos en promedio, lo que permite que la red descentralizada llegue a un consenso sobre el estado de las transacciones. Esto resuelve elegantemente el problema del doble gasto, donde una misma unidad monetaria podría gastarse dos veces. Anteriormente, el problema del doble gasto era una debilidad de las monedas digitales y se abordaba liquidando todas las transacciones a través de una cámara de compensación central.
 
-The Bitcoin network started in 2009, based on a reference implementation
-published by Nakamoto and since revised by many other programmers. The
-number and power of machines running the((("proof-of-work algorithm", seealso="mining"))) proof-of-work algorithm
-(mining) that provides security and resilience for Bitcoin have
-increased exponentially, and their combined computational power now
-exceeds the combined number of computing operations of the
-world's top supercomputers.
+La red Bitcoin comenzó en 2009, basada en una implementación de referencia
+publicada por Nakamoto y desde entonces revisada por muchos otros programadores.
+El número y la potencia de las máquinas que ejecutan el(((“algoritmo de proof-of-work”, véase también=“minería”))) algoritmo de proof-of-work
+(minería), que proporciona seguridad y resiliencia a Bitcoin, han aumentado
+exponencialmente, y su poder computacional combinado ahora supera el número
+total de operaciones de cómputo de las supercomputadoras más potentes del mundo.
 
-
-Satoshi Nakamoto withdrew from the public in April 2011, leaving the responsibility of developing the code and network to a thriving group of volunteers. The identity of the person or people behind Bitcoin is still unknown. However, neither Satoshi Nakamoto nor anyone else exerts individual control over the Bitcoin system, which operates based on fully transparent mathematical principles, open source code, and consensus among participants. The invention itself is groundbreaking and has already spawned new science in the fields of distributed computing, economics, and econometrics.
+Satoshi Nakamoto se retiró de la vida pública en abril de 2011, dejando la responsabilidad de desarrollar el código y la red a un próspero grupo de voluntarios. La identidad de la persona o las personas detrás de Bitcoin sigue siendo desconocida. Sin embargo, ni Satoshi Nakamoto ni nadie más ejerce control individual sobre el sistema Bitcoin, el cual opera en base a principios matemáticos totalmente transparentes, código de fuente abierta y consenso entre los participantes. El invento en sí es revolucionario y ya ha dado origen a una nueva ciencia en los campos de la computación distribuida, la economía y la econometría.
 
 .A Solution to a Distributed Computing Problem
 ****
