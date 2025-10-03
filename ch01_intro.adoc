@@ -83,49 +83,49 @@ total de operaciones de cómputo de las supercomputadoras más potentes del mund
 
 Satoshi Nakamoto se retiró de la vida pública en abril de 2011, dejando la responsabilidad de desarrollar el código y la red a un próspero grupo de voluntarios. La identidad de la persona o las personas detrás de Bitcoin sigue siendo desconocida. Sin embargo, ni Satoshi Nakamoto ni nadie más ejerce control individual sobre el sistema Bitcoin, el cual opera en base a principios matemáticos totalmente transparentes, código de fuente abierta y consenso entre los participantes. El invento en sí es revolucionario y ya ha dado origen a una nueva ciencia en los campos de la computación distribuida, la economía y la econometría.
 
-.A Solution to a Distributed Computing Problem
-****
-Satoshi Nakamoto's invention ((("Byzantine Generals&#x27; Problem")))((("distributed computing problem")))is
-also a practical and novel solution to a problem in distributed
-computing, known as the "Byzantine Generals' Problem." Briefly, the
-problem consists of trying to get multiple participants without a leader
-to agree on a course of action by exchanging information over an
-unreliable and potentially compromised network. Satoshi Nakamoto's solution, which uses the concept of
-proof of work to achieve consensus _without a central trusted
-authority_, represents a breakthrough in distributed computing.
-****
+.Una solución a un problema de computación distribuida  
+****  
+La invención de Satoshi Nakamoto ((("Problema de los Generales Bizantinos")))((("problema de computación distribuida")))  
+es también una solución práctica y novedosa a un problema en la computación distribuida, conocido como el **“Problema de los Generales Bizantinos.”**  
 
-=== Getting Started
+En pocas palabras, el problema consiste en lograr que múltiples participantes sin un líder se pongan de acuerdo en un curso de acción, intercambiando información a través de una red poco confiable y potencialmente comprometida.  
 
-Bitcoin is((("Bitcoin", "wallets", see="wallets")))((("wallets", "explained"))) a protocol that can be accessed using an
-application that speaks the protocol. A "Bitcoin wallet" is the
-most common user interface to the Bitcoin system, just like a web
-browser is the most common user interface for the HTTP protocol. There
-are many implementations and brands of Bitcoin wallets, just like there
-are many brands of web browsers (e.g., Chrome, Safari, and Firefox).
-And just like we all have our favorite browsers,
-Bitcoin wallets vary in quality, performance, security, privacy, and
-reliability. There is also a reference implementation of the Bitcoin
-protocol that includes a wallet, known as "Bitcoin Core," which is
-derived from the original implementation written by Satoshi Nakamoto.
+La solución de Satoshi Nakamoto, que utiliza el concepto de **prueba de trabajo** (Proof of Work) para alcanzar consenso _sin una autoridad central de confianza_, representa un gran avance en la computación distribuida.  
+****  
 
-==== Choosing a Bitcoin Wallet
+=== Empezando
 
-Bitcoin wallets ((("wallets", "choosing")))((("selecting", "wallets")))((("choosing", see="selecting")))are one of the most actively developed applications in the Bitcoin ecosystem. There is intense competition, and while a new wallet is probably being developed right now, several wallets from last year are no longer actively maintained. Many wallets focus on specific platforms or specific uses and some are more suitable for beginners while others are filled with features for advanced users. Choosing a wallet is highly subjective and depends on the use and user expertise. Therefore, it would be pointless to recommend a specific brand or wallet. However, we can categorize Bitcoin wallets according to their platform and function and provide some clarity about all the different types of wallets that exist. It is worth trying out several different wallets until you find one that fits your needs.
+Bitcoin es ((("Bitcoin", "billeteras", see="billeteras")))((("billeteras", "explicación"))) un protocolo al que se puede acceder usando una
+aplicación que hable el protocolo. Una **“billetera Bitcoin”** es la
+interfaz de usuario más común para el sistema Bitcoin, así como un
+navegador web es la interfaz de usuario más común para el protocolo HTTP. Existen muchas implementaciones y marcas de billeteras Bitcoin, al igual
+que hay muchas marcas de navegadores web (por ejemplo, Chrome, Safari y Firefox). Y así como todos tenemos nuestros navegadores favoritos,  
+las billeteras Bitcoin varían en calidad, rendimiento, seguridad, privacidad y
+confiabilidad. También existe una implementación de referencia del protocolo Bitcoin
+que incluye una billetera, conocida como **“Bitcoin Core,”** la cual está
+derivada de la implementación original escrita por Satoshi Nakamoto.  
 
-===== Types of Bitcoin wallets
-Bitcoin wallets ((("wallets", "types of", id="wallet-type")))can be categorized as follows, according to the platform:
 
-Desktop wallet:: A ((("desktop wallets")))desktop wallet was the first type of Bitcoin wallet created as a reference implementation. Many users run desktop wallets for the features, autonomy, and control they offer. Running on general-use operating systems such as Windows and macOS has certain security disadvantages, however, as these platforms are often insecure and poorly configured.
+==== Eligiendo una Billetera Bitcoin  
 
-Mobile wallet:: A ((("mobile wallets")))mobile wallet is the most common type of Bitcoin
-wallet. Running on smart-phone operating systems such as Apple iOS and
-Android, these wallets are often a great choice for new users. Many are
-designed for simplicity and ease-of-use, but there are also fully
-featured mobile wallets for power users.  To avoid downloading and
-storing large amounts of data, most mobile wallets retrieve information
-from remote servers, reducing your privacy by disclosing to third
-parties information about your Bitcoin addresses and balances.
+Las billeteras Bitcoin ((("billeteras", "elegir")))((("selección", "billeteras")))((("elegir", see="selección")))  
+son una de las aplicaciones más activamente desarrolladas en el ecosistema de Bitcoin. Hay una competencia intensa, y mientras probablemente en este momento se esté desarrollando una nueva billetera,  
+varias billeteras del año pasado ya no se mantienen activamente. Muchas billeteras se enfocan en plataformas o usos específicos: algunas son más adecuadas para principiantes, mientras que otras están llenas de funciones para usuarios avanzados. Elegir una billetera es algo muy subjetivo y depende del uso y de la experiencia del usuario. Por lo tanto, sería inútil recomendar una marca o billetera específica. Sin embargo, podemos **categorizar las billeteras Bitcoin según su plataforma y función**, y así dar un poco de claridad sobre todos los diferentes tipos de billeteras que existen. Vale la pena probar varias billeteras distintas hasta encontrar una que se ajuste a tus necesidades.  
+
+===== Tipos de Billeteras Bitcoin  
+
+Las billeteras Bitcoin ((("billeteras", "tipos de", id="wallet-type"))) se pueden categorizar de la siguiente manera, según la plataforma:  
+
+**Billetera de escritorio**:: Una ((("billeteras de escritorio")))billetera de escritorio fue el primer tipo de billetera Bitcoin creada como implementación de referencia. Muchos usuarios utilizan billeteras de escritorio por las funciones, autonomía y control que ofrecen. Sin embargo, al ejecutarse en sistemas operativos de uso general como Windows y macOS, presentan ciertas desventajas de seguridad, ya que estas plataformas suelen ser inseguras y estar mal configuradas.  
+
+**Billetera móvil**:: Una ((("billeteras móviles")))billetera móvil es el tipo más común de billetera Bitcoin.  
+Al ejecutarse en sistemas operativos de teléfonos inteligentes como Apple iOS y Android,  
+estas billeteras suelen ser una excelente opción para nuevos usuarios.  
+Muchas están diseñadas para la simplicidad y facilidad de uso,  
+pero también existen billeteras móviles con todas las funciones para usuarios avanzados.  
+Para evitar descargar y almacenar grandes cantidades de datos,  
+la mayoría de las billeteras móviles obtienen la información desde servidores remotos,  
+lo que reduce tu privacidad al revelar a terceros información sobre tus direcciones y saldos de Bitcoin. 
 
 Web wallet:: Web wallets ((("web wallets")))are accessed through a web browser and store
 the user's wallet on a server owned by a third party. This is similar to
